@@ -1,3 +1,11 @@
+Android | ios | windows
+  --------------- ------| ---------------|-----------------
+medium app for aderioud | medium for ios | medium for windows
+
+
+
+
+
 gonna play around with **mardown examples**
 
 > "gonna play around with mardown" 
@@ -32,3 +40,11 @@ hhjnkkjkm
 
 + [ ] task 1
 + [ ] task 2
+
+Android | ios
+   --- | ---
+
+
+
+
+
